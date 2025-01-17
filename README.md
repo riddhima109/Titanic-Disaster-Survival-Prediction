@@ -79,6 +79,3 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost
    ```
 3. Generate predictions and evaluate model performance.
 
-## License
-This project is licensed under the MIT License.
-
