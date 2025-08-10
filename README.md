@@ -78,4 +78,5 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost
    jupyter notebook titanic_survival_prediction.ipynb
    ```
 3. Generate predictions and evaluate model performance.
+   - Google Colab notebook-1 fetches an accuracy of 75.837%.
 
